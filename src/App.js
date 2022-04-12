@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Hello </h1>
       <animated.div style={props}>I will fade in</animated.div>
       <MyLineChart></MyLineChart>
       <SpecialChart></SpecialChart>
